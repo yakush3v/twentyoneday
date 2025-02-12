@@ -3,7 +3,7 @@
 
 ## Используемые ресурсы
 1. [Основное хранилище материалов курса](https://xn----1-bedvffifm4g.xn--p1ai/free/programming-in-1c-in-21-days/final-all-in-one/)
-2. [Плейлист на ютуб](https://www.youtube.com/watch?v=y16Y3nKC3QI&list=PLN1BSVwPIqvUBuhRj3PYHqdCn6upxIXzD&ab_channel=CarlosSanchez)
+2. [Плейлист на YouTube](https://www.youtube.com/watch?v=y16Y3nKC3QI&list=PLN1BSVwPIqvUBuhRj3PYHqdCn6upxIXzD&ab_channel=CarlosSanchez)
 3.  Встроенная справка платформы 1С
 
 ### День 1
